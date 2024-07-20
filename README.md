@@ -1,7 +1,7 @@
 - 👋 Hi, I’m West Joshua Dein.
-- 👀 I’m interested in Backend Web Development.
-- 🌱 I’m currently learning the Python framework Django.
-- 💞️ I’m looking to collaborate on Backend Web Applications.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning Machine Learning model deployment.
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning projects.
 - 📫 How to reach me uuhhmm.... will update later.
 
 
